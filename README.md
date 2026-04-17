@@ -32,5 +32,5 @@ Um álbum possui várias músicas (1:N)
 Usuário escuta Música
 Representa o histórico de reprodução (N:N), podendo incluir atributos como data_execucao
 
-![Texto Alternativo](Foto-BD.png)
+
 
